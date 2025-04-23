@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-raylib = "5.5.1"
-v4l = "0.14.0"
+macroquad = "0.4.14"
+nokhwa = { version = "0.10", features = ["input-native"] }
